@@ -1,1 +1,24 @@
 
+body {
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    font-size: 18px;
+}
+
+.highlight {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+
+#special-list {
+    background-color: #e8f5e9;
+    padding: 10px;
+    border-radius: 8px;
+}
